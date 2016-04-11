@@ -1,0 +1,7 @@
+role: job position(title) name
+min_sal: minimum salary for job
+max_sal: maximum salary for job
+skiils: skills required for positon
+degrees: degrees required for position
+employers: target companies for sourcing candidates(employers)
+industries: target industries for sourcing candidates
